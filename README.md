@@ -312,3 +312,5 @@ to creating your own web servers with Sinatra!
 - [Getting Started with Sinatra](http://sinatrarb.com/intro.html)
 
 [sinatra]: http://sinatrarb.com/
+
+https://github.com/G3o-R/phase-3-intro-to-sinatra
